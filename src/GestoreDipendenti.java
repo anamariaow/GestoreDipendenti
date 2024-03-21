@@ -17,9 +17,7 @@ public class GestoreDipendenti {
     public void aggiungiDipendente(Dipendente dipendente) {
         dipendenteArrayList.add(dipendente);
     }
-    {
 
-    }
     public void rimuoviDipendente(Dipendente dipendente) {
         dipendenteArrayList.remove(dipendente);
     }
